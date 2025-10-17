@@ -1,0 +1,4 @@
+supabase
+requests
+pywhatkit
+python-dotenv
